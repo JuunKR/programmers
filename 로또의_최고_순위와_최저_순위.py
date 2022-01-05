@@ -8,3 +8,4 @@ def solution(lottos, win_nums):
     return [rank[zeros + cnt], rank[cnt]]
 
 
+
